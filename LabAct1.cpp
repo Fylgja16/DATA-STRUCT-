@@ -45,7 +45,7 @@ using namespace std;
 
 int main()
 {
-    int a 5, b = 3;
+    int a = 5, b = 3;
     cout << "Sum: " << a + b << endl; 
     cout << "Product: " << a * b;
     return 0;
@@ -105,7 +105,7 @@ using namespace std;
 
 int main()
 {
-    stringfirst = "C++ ";
+    string first = "C++ ";
     string second = "Programming";
     
     cout << first + second;
