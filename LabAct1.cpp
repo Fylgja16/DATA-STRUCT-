@@ -61,7 +61,7 @@ int main()
     
     if (number > 5) 
     {
-    cout << "Number is greater than 5";
+        cout << "Number is greater than 5";
     }
 
     return 0;

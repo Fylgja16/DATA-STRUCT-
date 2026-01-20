@@ -4,7 +4,7 @@ using namespace std;
 
 void greet()
 {
-cout << "Hello from a function!";
+    cout << "Hello from a function!";
 }
 
 int main()
