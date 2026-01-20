@@ -1,0 +1,13 @@
+===ALL IN ONE PROGRAM===
+
+==1. Make a C++ Code create an int array has 10 elements with values ranging 20-60 (UNSORTED), display using for loop (10pts)
+
+==2. Create a stack and queue that stores the content of the initial array, then pop 3 times, then display both (remaining contents), verify that it has contents (10pts)
+
+==3. Merge content of stack and queue in one container (stack first then queue), NAME: Data merging then print result (10pts)
+
+4. Make 4 sorting algo functions that can be called, will use data merging data (20pts)
+
+5. between the running of 4 sorting algo, monitor the time complexity of each sorting algo, subtract start and end to get total (10pts)
+
+
